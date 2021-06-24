@@ -8,10 +8,8 @@ Amante de Linux e café, sou autodidata; confesso que tenho uma especie de compu
 
 ##### Linguagens:
 
-- Java
-- Kotlin
-- Javascript
-- Typescript
+- Java / Kotlin
+- Javascript / Typescript
 - Python
 - PHP
 - Rust
@@ -21,7 +19,6 @@ Amante de Linux e café, sou autodidata; confesso que tenho uma especie de compu
 - Angular
 - Ionic
 - Express
-- Spring
 - Flask
 
 ##### Conhecimentos adversos e/ou teóricos:
