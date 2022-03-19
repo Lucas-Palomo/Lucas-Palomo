@@ -4,3 +4,9 @@ Amante de Linux e café, sou autodidata; confesso que tenho uma especie de compu
 
 
 Você pode ver mais sobre mim no [Linkedin](https://www.linkedin.com/in/lucas-palomo-338749183/)
+
+----
+
+<div align="center"/>
+
+[![Lucas Palomo GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Palomo&count_private=true&show_icons=true&theme=midnight-purple&hide=prs,contribs)](https://github.com/Lucas-Palomo/)
