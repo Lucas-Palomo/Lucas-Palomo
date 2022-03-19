@@ -9,4 +9,4 @@ Você pode ver mais sobre mim no [Linkedin](https://www.linkedin.com/in/lucas-pa
 
 <div align="center"/>
 
-[![Lucas Palomo GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Palomo&count_private=true&show_icons=true&theme=midnight-purple&hide=prs,contribs)](https://github.com/Lucas-Palomo/)
+[![Lucas Palomo GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Palomo&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/Lucas-Palomo/)
