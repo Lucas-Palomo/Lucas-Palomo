@@ -1,9 +1,15 @@
 # Quem é Lucas Palomo ?
 
-Amante de Linux e café, sou autodidata; confesso que tenho uma especie de compulsividade em entender como as coisas funcionam. Posso adicionar com toda certeza do mundo duas características perseverança e paciência. Ahh é estava esquecendo que tenho alguns Hobbies como jogar xadrez, aprender novos idiomas, 'hackear' alguma coisa.
+Olá visitante, vou tentar agilizar as coisas para você !
+
+Sou um desenvolvedor; tenho experiência com ecossistema Linux, aspirante no desenvolvimento de linguagens Baixo Nível.
+
+Conto também com um conhecimento avançado no Framework Angular / Ionic e NodeJS Express; durante minha graduação estagiei em diversos projetos com o intuito de aprender e melhorar minhas habilidades.
+
+Apaixonado por aprender vivo digerindo conteúdo (livros, artigos e documentos técnicos), venho carregando um conhecimento teórico razoavelmente bom sobre desenvolvimento de software, segurança da informação, redes e sistemas operacionais.
 
 
-Você pode ver mais sobre mim no [Linkedin](https://www.linkedin.com/in/lucas-palomo-338749183/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-palomo-338749183/)
 
 ----
 
