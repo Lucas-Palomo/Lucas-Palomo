@@ -9,5 +9,5 @@ Você pode ver mais sobre mim no [Linkedin](https://www.linkedin.com/in/lucas-pa
 
 <div align="center"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Palomo&count_private=true&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Palomo&count_private=true&layout=compact)](#)
 
