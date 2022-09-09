@@ -15,5 +15,5 @@ Apaixonado por aprender vivo digerindo conteúdo (livros, artigos e documentos t
 
 <div align="center"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Palomo&count_private=true&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Palomo&count_private=true&layout=compact&langs_count=10&fetch=all&exclude_repo=Nvim)](#)
 
