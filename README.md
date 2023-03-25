@@ -9,7 +9,7 @@ Conto também com um conhecimento avançado no Framework Angular / Ionic e NodeJ
 Apaixonado por aprender vivo digerindo conteúdo (livros, artigos e documentos técnicos), venho carregando um conhecimento teórico razoavelmente bom sobre desenvolvimento de software, segurança da informação, redes e sistemas operacionais.
 
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-palomo-338749183/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas--palomo/)
 
 ----
 
