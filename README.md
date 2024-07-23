@@ -1,19 +1,21 @@
-# Quem é Lucas Palomo ?
+<h3 align="center">Hey! I'm Lucas Palomo 👋</h3>
 
-Olá visitante, vou tentar agilizar as coisas para você !
+I'm a software developer from Brazil. 🇧🇷
 
-Sou um desenvolvedor; tenho experiência com ecossistema Linux, aspirante no desenvolvimento de linguagens Baixo Nível.
+My favorite hobby is reinventing things with programming, which is an excellent way to learn.
 
-Conto também com um conhecimento avançado no Framework Angular / Ionic e NodeJS Express; durante minha graduação estagiei em diversos projetos com o intuito de aprender e melhorar minhas habilidades.
+I enjoy helping to orient new developers
 
-Apaixonado por aprender vivo digerindo conteúdo (livros, artigos e documentos técnicos), venho carregando um conhecimento teórico razoavelmente bom sobre desenvolvimento de software, segurança da informação, redes e sistemas operacionais.
-
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas--palomo/)
+I've been involved in e-commerce development for some of Brazil's largest companies
 
 ----
 
-<div align="center"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Palomo&count_private=true&layout=compact&langs_count=10&fetch=all&exclude_repo=Nvim,pokedex-app&hide=css&custom_title=Most%20used%20languages" align="center"/>
+  <span><img width="50px"/></span>
+  <a href="https://wakatime.com/@Lucas_Palomo" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lucas_Palomo&layout=compact&custom_title=Hours%20coding%20" align="center"/></a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Palomo&count_private=true&layout=compact&langs_count=10&fetch=all&exclude_repo=Nvim)](#)
+---
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas--palomo/)
