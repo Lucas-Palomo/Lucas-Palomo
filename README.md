@@ -16,7 +16,7 @@ I've been involved in e-commerce development for some of Brazil's largest compan
 <img width="50px">
 
 <div align="center">
-  <a href="https://wakatime.com/@Lucas_Palomo" target="blank"><img src="https://lucas-palomo-github-readme-status.squareweb.app/api/wakatime?username=Lucas_Palomo&layout=compact&custom_title=Hours%20coding%20" align="center"/></a>
+  <a href="https://wakatime.com/@Lucas_Palomo" target="blank"><img src="https://lucas-palomo-github-readme-status.squareweb.app/api/wakatime?username=Lucas_Palomo&layout=compact&custom_title=Hours%20coding" align="center"/></a>
 </div>
 
 
